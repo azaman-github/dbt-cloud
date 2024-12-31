@@ -6,6 +6,7 @@
 
     Try changing "table" to "view" below
     This change is to test commit from local repo
+    This change is to test second commit from local repo
 */
 
 {{ config(materialized='table') }}
