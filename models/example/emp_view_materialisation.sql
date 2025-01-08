@@ -10,7 +10,7 @@
 WITH emp_cte as 
 (
 
-SELECT empno, fname,lname,gender
+SELECT empno, fname,lname
 FROM emp
 ), final as
 (
