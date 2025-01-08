@@ -40,4 +40,10 @@ models:
     # Applies to all files under models/example/
     example:
       +materialized: table
+<<<<<<< HEAD
+      +enabled : true
+      #+required_docs : true
+      #+required_tests: {"unique.*|not_null": 1}
+=======
+>>>>>>> 30e18a6363c537bdb1d0d0a7340bb907579a68c7
 
