@@ -1,1 +1,0 @@
-select *  from my_first_model_in_ide
